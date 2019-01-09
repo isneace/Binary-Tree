@@ -1,2 +1,1 @@
-# Lab9
-Binary Tree ADT
+This is a program I wrote during my first semester of Lewis-Clark State College in my CS213 class. This program will create a binary tree that is sorted by smallest to largest values. You can also search for specific values and it will do an ordered search. Finally you can locate the largest and the smallest value in the list.
